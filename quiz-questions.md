@@ -6,6 +6,7 @@ The following questions were asked in the quiz round:
     - [ ] C
     - [ ] Python
     - [x] Anaconda
+ 
  2. Who is known as the father of Theoretical Computer Science?
     - [ ] Charles Babbage
     - [ ] Gottfried Leibniz
@@ -32,40 +33,40 @@ The following questions were asked in the quiz round:
     - [x] break;
     - [ ] out;
 7. x = 10+15 / 2+6;
-In C language, assuming that "x" is an int type variable, what value will be stored in "x"?
+    > In C language, assuming that "x" is an int type variable, what value will be stored in "x"?
     - [ ] 3
     - [ ] 18.5
     - [x] 23
     - [ ] 23.5
-8. int a, b, y;
-y = 10;
-a = y++;
-b = ++y;
-printf("a=%d & b=%d", a, b);
-What will be printed on the screen as a result of this code snippet?
+8. 1. int a, b, y;
+    2. y = 10;
+    3. a = y++;
+    4. b = ++y;
+    5. printf("a=%d & b=%d", a, b);
+    > What will be printed on the screen as a result of this code snippet?
     - [ ] a=10 & b=11
     - [x] a=10 & b=12
     - [ ] a=11 & b=11
     - [ ] a=11 & b=12
-9. for (a=0,a<9,a++)
-{
-&nbsp;&nbsp;&nbsp;&nbsp;printf("%d", a)
-}
-What will be the output of this code snippet?
+9. 1. for (a=0,a<9,a++)
+    2. {
+    3. &nbsp;&nbsp;&nbsp;&nbsp;printf("%d", a)
+    4. }
+    > What will be the output of this code snippet?
     - [ ] 012345678
     - [ ] 123456789
     - [ ] 0123456789
     - [x] ERROR
-10. int cgec = 2016;
-if (2020 >= cgec)
-{
-&nbsp;&nbsp;&nbsp;&nbsp;printf("cgec");
-}
-else
-{
-&nbsp;&nbsp;&nbsp;&nbsp;printf("Not cgec");
-}
-What will be the output of this code snippet?
+10. 1. int cgec = 2016;
+    2. if (2020 >= cgec)
+    3. {
+    4. &nbsp;&nbsp;&nbsp;&nbsp;printf("cgec");
+    5. }
+    6. else
+    7. {
+    8. &nbsp;&nbsp;&nbsp;&nbsp;printf("Not cgec");
+    9. }
+    > What will be the output of this code snippet?
     - [x] cgec
     - [ ] Not cgec
     - [ ] 2016
@@ -79,7 +80,7 @@ What will be the output of this code snippet?
     7. &nbsp;&nbsp;&nbsp;&nbsp;printf("%y", d);
     8. &nbsp;&nbsp;&nbsp;&nbsp;return 0;
     9. }
-Which of the above line contains an error?
+    > Which of the above line contains an error?
     - [ ] Line 1
     - [ ] Line 3
     - [x] Line 5
@@ -95,7 +96,7 @@ Which of the above line contains an error?
     9. &nbsp;&nbsp;&nbsp;&nbsp;}
     10. &nbsp;&nbsp;&nbsp;&nbsp;return 0;
     11. }
-Which of the following numbers will be printed?
+    > Which of the following numbers will be printed?
     - [ ] 1
     - [x] 9
     - [ ] 16
