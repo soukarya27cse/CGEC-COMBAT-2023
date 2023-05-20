@@ -32,7 +32,7 @@ A total of 12 questions were chosen by the organisers. The questions, each of 1 
 - **Second prize in Problem Solving**: Mrittika Dutta (CSE 1st year)
 - **First prize in Quiz**: Subham Mondal (ECE 1st year)
 
-## Organising Team
+## Organizing Team
 1. Soukarya Samanta (CSE 1st year)
 2. Abhishek Haldar (CSE 1st year)
 3. Debraj Mondal (CSE 1st year)
