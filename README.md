@@ -7,7 +7,7 @@ C-OMBAT 2023 was the first event organized by the First Year students of the 202
 The competitive event was organized for fellow first year students, including first-time coders, based exclusively on C programming language, to provide them with a level playing ground to allow them to showcase their logical skills, irrespective of their past associations with coding at the school level, which is usually based on Python or Java.
 
 ## The Event
-The event was organized at Seminar Hall, Administrative Building, CGEC from 3:50 pm onwards. The event was split into two rounds: Problem Solving round, and Quiz round.
+The event was organized at Seminar Hall, Administrative Building, CGEC on 8th May 2023 from 3:50 pm onwards. The event was split into two rounds: Problem Solving round, and Quiz round.
 
 ### Problem Solving round
 The problem-solving round was conducted on HackerRank. Although the event has already ended, the problem statements continue to be available at the [following link](https://www.hackerrank.com/cgec-com23), and open for everyone to view and attempt.
