@@ -47,8 +47,8 @@ A total of 12 questions were chosen by the organisers. The questions, each of 1 
 12. Sujay Paul (ME 1st year)
 13. Anushka Majumdar (ME 1st year)
 
-- <sub>Logo designed by Sayan Chakraborty & Soukarya Samanta<sub/>
-- <sub>Poster designed by Ankita Saha (ME 1st year)</sub>
+<sub>- Logo designed by Sayan Chakraborty & Soukarya Samanta</sub><br/>
+<sub>- Poster designed by Ankita Saha (ME 1st year)</sub>
 
 ----
 <sub>To raise issues and/or mistakes in the repository, and/or contact otherwise, please mail to [soukarya27cse@gmail.com](mailto:soukarya27cse@gmail.com)</sub>
