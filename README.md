@@ -20,7 +20,7 @@ All but one questions were created by the organizers of the event by taking insp
 5. [Difficult words](https://www.hackerrank.com/contests/cgec-com23/challenges/difficult-words-com23)
 
 ### Quiz round
-The quiz round was conducted on Slido. The event has already ended, and the problem questions may be viewed at [quiz-questions.md](https://github.com/soukarya27cse/CGEC-COMBAT-2023/blob/main/quiz-questions.md).
+The quiz round was conducted on Slido. The event has already ended, and the problem questions and its answers may be viewed at [quiz-questions.md](https://github.com/soukarya27cse/CGEC-COMBAT-2023/blob/main/quiz-questions.md).
 
 A total of 12 questions were chosen by the organisers. The questions, each of 1 point, were divided into three sections depending on the difficulty.
 1. First 6 questions each had one correct answer, and allowed the participants 15 seconds to select the correct one.
@@ -28,9 +28,9 @@ A total of 12 questions were chosen by the organisers. The questions, each of 1 
 3. The last 2 questions each had two correct answers, and allowed the participants 30 seconds to select the correct one. Both correct answered had to be marked to get a point.
 
 ## Winners & Prizes
-- First prize in Problem Solving: Bikram Modak (CSE 1st year)
-- Second prize in Problem Solving: Mrittika Dutta (CSE 1st year)
-- First prize in Quiz: Subham Mondal (ECE 1st year)
+- **First prize in Problem Solving**: Bikram Modak (CSE 1st year)
+- **Second prize in Problem Solving**: Mrittika Dutta (CSE 1st year)
+- **First prize in Quiz**: Subham Mondal (ECE 1st year)
 
 ## Organising Team
 1. Soukarya Samanta (CSE 1st year)
