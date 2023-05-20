@@ -51,4 +51,4 @@ A total of 12 questions were chosen by the organisers. The questions, each of 1 
 <sub>- Poster designed by Ankita Saha (ME 1st year)</sub>
 
 ----
-<sub>To raise issues and/or mistakes in the repository, and/or contact otherwise, please mail to [soukarya27cse@gmail.com](mailto:soukarya27cse@gmail.com)</sub>
+<sub>To raise issues and/or mistakes in the repository, and/or contact otherwise, please mail to [soukarya27cse@gmail.com](mailto:soukarya27cse@gmail.com).</sub>
