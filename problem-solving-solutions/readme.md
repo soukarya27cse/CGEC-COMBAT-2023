@@ -1,4 +1,4 @@
-#Problem solving solutions
+# Problem solving solutions
 
 This directory contains the solutions to the problems given in the problem solving round, as solved by Soukarya Samanta. These are only sample solutions and other equally valid solutions may also exist. Any solution that passes all the test cases of a question, would have been accepted as vaild by the HackerRank's compiler.
 
