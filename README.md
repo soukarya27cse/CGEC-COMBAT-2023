@@ -12,7 +12,7 @@ The event was organized at Seminar Hall, Administrative Building, CGEC on 8th Ma
 ### Problem Solving round
 The problem-solving round was conducted on HackerRank. Although the event has already ended, the problem statements continue to be available at the [following link](https://www.hackerrank.com/cgec-com23), and open for everyone to view and attempt.
 
-All but one questions were created by the organizers of the event by taking inspirations from many sources to match the unique needs of the event. Each question carried 100 points irrespective of their difficulty level. The individual problems may be found at:
+All but one questions were created by the organizers of the event by taking inspirations from many sources to match the unique needs of the event. Sample solutions are available [here](https://github.com/soukarya27cse/CGEC-COMBAT-2023/tree/main/problem-solving-solutions). Each question carried 100 points irrespective of their difficulty level. The individual problems may be found at:
 1. [Sum of digits of a five digit number](https://www.hackerrank.com/contests/cgec-com23/challenges/sum-of-digits-of-a-five-digit-number) (HackerRank problem)
 2. [Statistical Analysis](https://www.hackerrank.com/contests/cgec-com23/challenges/statistical-analysis-com23)
 3. [Pizza Hunt](https://www.hackerrank.com/contests/cgec-com23/challenges/pizza-hunt-com23)
